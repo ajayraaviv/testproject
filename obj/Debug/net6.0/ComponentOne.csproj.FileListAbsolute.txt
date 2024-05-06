@@ -1,0 +1,15 @@
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\ComponentOne.csproj.AssemblyReference.cache
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\ComponentOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\ComponentOne.AssemblyInfoInputs.cache
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\ComponentOne.AssemblyInfo.cs
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\ComponentOne.csproj.CoreCompileInputs.cache
+C:\Workspace\VT\ComponentOne\bin\Debug\net6.0\ComponentOne.exe
+C:\Workspace\VT\ComponentOne\bin\Debug\net6.0\ComponentOne.deps.json
+C:\Workspace\VT\ComponentOne\bin\Debug\net6.0\ComponentOne.runtimeconfig.json
+C:\Workspace\VT\ComponentOne\bin\Debug\net6.0\ComponentOne.dll
+C:\Workspace\VT\ComponentOne\bin\Debug\net6.0\ComponentOne.pdb
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\ComponentOne.dll
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\refint\ComponentOne.dll
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\ComponentOne.pdb
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\ComponentOne.genruntimeconfig.cache
+C:\Workspace\VT\ComponentOne\obj\Debug\net6.0\ref\ComponentOne.dll
